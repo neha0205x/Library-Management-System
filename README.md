@@ -36,3 +36,27 @@ For students
     Edit their profile
     Can change password
     View the issued book by them
+    
+    
+    
+<div align="center">
+
+   
+ 
+ 
+ 
+ ![alt text](https://raw.githubusercontent.com/neha0205x/Library-Management-System/main/FinalImag/1.png)
+
+ 
+ 
+ 
+  ![alt text](https://raw.githubusercontent.com/neha0205x/Library-Management-System/main/FinalImag/2.png)
+
+
+
+ ![alt text](https://raw.githubusercontent.com/neha0205x/Library-Management-System/main/FinalImag/3.png)
+
+
+
+ 
+ 
